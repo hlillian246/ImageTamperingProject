@@ -1,1 +1,1 @@
-# ImageTamperingProject
+# Super Resolution
